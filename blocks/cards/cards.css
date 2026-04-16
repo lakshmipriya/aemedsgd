@@ -14,6 +14,8 @@
 
 .cards .cards-card-body {
   margin: 16px;
+    color: #ff00cc;
+    background-color: #dcdcdc;
 }
 
 .cards .cards-card-image {
